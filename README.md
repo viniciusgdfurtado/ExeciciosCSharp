@@ -1,4 +1,4 @@
-## <h2 align="center">:pager: Lista de Exercicios - C# (Nível Básico) </h2>
+## <h2 align="center">:bookmark_tabs: Lista de Exercicios - C# (Nível Básico) </h2>
 Objetivo: usando uma aplicação do tipo console do dotnet, criar uma lista de repositórios com exercicios que exemplifiquem minhas capacidades de desenvolvimento em C#.
 
 <p align="center">
