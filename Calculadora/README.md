@@ -7,7 +7,7 @@ Objetivo: usando uma aplicação do tipo console do dotnet, criar uma calculador
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-## :books: Requisitos:
+## :bookmark: Requisitos:
 <h3> Ao entrar na calculadora o usuário deverá ter um menu com as opções 1, 2, 3, 4, 5 , 6 e 0. Sendo elas: </h3>
 
 1 - Somar
