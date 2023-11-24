@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\bin\Debug\net8.0\JogarDados.exe
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\bin\Debug\net8.0\JogarDados.deps.json
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\bin\Debug\net8.0\JogarDados.runtimeconfig.json
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\bin\Debug\net8.0\JogarDados.dll
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\bin\Debug\net8.0\JogarDados.pdb
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.sourcelink.json
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.dll
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\refint\JogarDados.dll
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.pdb
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\JogarDados.genruntimeconfig.cache
+C:\Users\Administrator\Documents\Projetos\ExerciciosCSharp\JogarDados\obj\Debug\net8.0\ref\JogarDados.dll
