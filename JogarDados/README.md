@@ -1,4 +1,4 @@
-## <h2 align="center">:pager: Jogar Dados- C#</h2>
+## <h2 align="center">:game_die: Jogar Dados- C#</h2>
 Objetivo: usando uma aplicação do tipo console do dotnet, criar um jogo simplificado onde dois jogadores podem jogar dados e a aplicação informa qual dos jogadores tirou o maior número.
 
 <p align="center">
