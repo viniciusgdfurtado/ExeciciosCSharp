@@ -12,3 +12,5 @@ Objetivo: usando uma aplicação do tipo console do dotnet, criar uma lista de r
 :small_blue_diamond: [Calculadora](https://github.com/viniciusgdfurtado/ExerciciosCSharp/tree/main/Calculadora)
 
 :small_blue_diamond: [Soma e Média](https://github.com/viniciusgdfurtado/ExerciciosCSharp/tree/main/Soma_Media)
+
+:small_blue_diamond: [Jogar Dados](https://github.com/viniciusgdfurtado/ExerciciosCSharp/tree/main/JogarDados)
