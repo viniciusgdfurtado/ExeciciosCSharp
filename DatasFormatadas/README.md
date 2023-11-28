@@ -11,15 +11,21 @@ Objetivo: usando uma aplicação do tipo console do dotnet, criar uma aplicaçã
 <h3> Quando o usuário abrir a aplicação deve ser solicitado qual o formato de data ele deseja visualizar. Deve ser disponibilizada as formatações abaixo: </h3>
 
 1 - Utilizar minha configuração de sistema: 08/01/2021 20:48:13 (Este item deve apenas converter a data para string, deixar que o sistema use o formato dele)
+
 2 - Formato simples: 08-01-21
+
 3 - Formato longo sexta-feira, 8 de janeiro de 2021
+
 4 - Formato longo personalizado 08-01-2021 08:48:13
+
 5 - Formato RFC1123 pattern Fri, 08 Jan 2021 20:48:13 GMT
 
 Após seleção correta de uma opção exiba um segundo menu com as seguintes opções (ou use outras de sua escolha): 
 
 1 - ENIAC 
+
 2 - RFC1 
+
 3 - Alan Turing
 
 Ao escolher uma das opções o sistema deverá exibir para o usuário um cabeçalho com a data do evento e um texto com a descrição do evento. Abaixo você encontra as datas e textos dos eventos sugeridos acima:
